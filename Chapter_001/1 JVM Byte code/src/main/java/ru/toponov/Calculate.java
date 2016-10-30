@@ -6,6 +6,6 @@ public class Calculate {
 	}
 	public static void main(String[] args){
 		Calculate calc = new Calculate();
-		System.out.println(calc.echo("Hello!!!"));
+		System.out.println(calc.echo("Hello!!!!"));
 	}
 }
