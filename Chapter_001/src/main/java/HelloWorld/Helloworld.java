@@ -1,6 +1,6 @@
-package toponov;
+package helloworld;
 
-public class HelloWorld {
+public class Helloworld {
 	public static void main(String[] args){
 		System.out.println("HelloWorld!");
 	}

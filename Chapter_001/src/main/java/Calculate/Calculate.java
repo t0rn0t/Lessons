@@ -1,4 +1,4 @@
-package toponov;
+package calculate;
 
 public class Calculate {
 	public String echo(String value){
@@ -6,6 +6,6 @@ public class Calculate {
 	}
 	public static void main(String[] args){
 		Calculate calc = new Calculate();
-		System.out.println(calc.echo("Hello!"));
+		System.out.println(calc.echo(args[0]));
 	}
 }

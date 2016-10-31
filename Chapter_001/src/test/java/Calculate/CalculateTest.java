@@ -1,4 +1,4 @@
-package toponov;
+package calculate;
 
 import org.junit.Test;
 import static org.hamcrest.core.Is.is;
