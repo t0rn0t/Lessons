@@ -10,6 +10,6 @@ public class Car {
 		this.gas = value;	
 	}
 	public void showGas(){
-		System.out.println("Gas: " + gas);
+		System.out.println("1Gas: " + gas);
 	}
 }
